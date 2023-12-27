@@ -5,7 +5,7 @@
 
 // CREATE AN AUTO TRIGGER TO RUN THE RUN FUNCTION PERIODICALLY - SET UP TO RUN EVERY 5 MINUTES ON THE CLOCK.
 
-File structure
+//File structure
 ![image](https://github.com/quitang1103/GAS-Sort-by-2-unique-field-EMAIL-ACITIVITY-NAME-/assets/106106482/f1662583-c657-46f5-b966-61f0779dae40)
 Trigger
 ![image](https://github.com/quitang1103/GAS-Sort-by-2-unique-field-EMAIL-ACITIVITY-NAME-/assets/106106482/bdcff854-49d4-4ffd-9778-ec5a9e72a576)
